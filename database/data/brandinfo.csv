@@ -1,0 +1,47 @@
+Id,Brand,Cruelty-free,Vegan,Parent Company
+1,Clorox,FALSE,FALSE,Null
+2,Mr.Clean,FALSE,FALSE,Null
+3,VEO,FALSE,FALSE,Null
+4,Lysol,FALSE,FALSE,Null
+5,Great value,FALSE,FALSE,Null
+6,409,FALSE,FALSE,Null
+7,Pine-sol,FALSE,FALSE,Null
+8,Fabuloso,FALSE,FALSE,Null
+9,Easy-Off,FALSE,FALSE,Null
+10,scrubbing bubbles,FALSE,FALSE,Null
+11,Arm & Hammer,FALSE,FALSE,Null
+12,Bounce,FALSE,FALSE,Null
+13,Tide,FALSE,FALSE,Null
+14,All,FALSE,FALSE,Null
+15,Persil,FALSE,FALSE,Null
+16,Gain,FALSE,FALSE,Null
+17,Pure,FALSE,FALSE,Null
+18,Woolite,FALSE,FALSE,Null
+19,Kirkland,FALSE,FALSE,Null
+20,Cascade,FALSE,FALSE,Null
+21,Finish,FALSE,FALSE,Null
+22,Palmolive,FALSE,FALSE,Null
+23,Dawn,FALSE,FALSE,Null
+24,Windex,FALSE,FALSE,Null
+25,Scotch-brite,FALSE,FALSE,Null
+26,Resolve,FALSE,FALSE,Null
+27,shout,FALSE,FALSE,Null
+28,Soft Scrub,FALSE,FALSE,Null
+29,Swiffer,FALSE,FALSE,Null
+30,Zout,FALSE,FALSE,Null
+31,Real Simple Clean,TRUE,FALSE,null
+32,Seventh Generation,TRUE,TRUE,Unilever
+33,Ecos,TRUE,TRUE,null
+34,Astonish,TRUE,TRUE,null
+35,Attitude,TRUE,TRUE,null
+36,Dr.Bonner's,TRUE,TRUE,null
+37,Infuse by Casabella,TRUE,TRUE,null
+38,J.R Watkins,TRUE,FALSE,null
+39,Marks & Spencer,TRUE,FALSE,null
+40,Method,TRUE,TRUE,SC JOHNSON
+41,Mrs. Meyer's,TRUE,FALSE,SC JOHNSON
+42,Nature Clean ,TRUE,FALSE,null
+43,Nellie's,TRUE,FALSE,null
+44,Puracy,TRUE,TRUE,null
+45,Molly's Suds,TRUE,FALSE,null
+46,Ecover,TRUE,TRUE,SC JOHNSON
