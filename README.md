@@ -7,7 +7,9 @@ This is an app that checks if popular house-hold brands are cruelty-free or not 
 ### Built with
 - [React](https://reactjs.org/)
 - [Express](https://expressjs.com/)
+- [Postgresql](https://www.postgresql.org/)
 - HTML/CSS
+
 
 <!-- GETTING STARTED -->
 
